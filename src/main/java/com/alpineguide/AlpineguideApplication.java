@@ -1,13 +1,14 @@
-package com.alpineguide.alpineguide;
+package com.alpineguide;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import static org.springframework.boot.SpringApplication.run;
 
 @SpringBootApplication
 public class AlpineguideApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlpineguideApplication.class, args);
+		run(AlpineguideApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.alpineguide.alpineguide;
+package com.alpineguide;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
